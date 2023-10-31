@@ -36,7 +36,8 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
-![Screenshot 2023-10-30 220041](https://github.com/Lokeshreddya31/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/144870682/7cd2a8b7-5cd5-4102-9043-a6e2bb2332d8)
+ ![Screenshot 2023-10-31 185242](https://github.com/Lokeshreddya31/Ex.No.-1.2---Design-and-Draft-the-given-2D-Sketches-in-modelling-software./assets/144870682/8aa8c09c-2324-484c-80b7-8a81db7e0ed7)
+
 
  
  ## RESULT
